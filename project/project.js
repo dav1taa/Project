@@ -1,7 +1,7 @@
 // loadingის ტაიმერი
 // setTimeout(function(){
 //         window.location.href = 'Mainpage.html';
-//     }, 5000);
+//     }, 5000);`
 
 
 // სლაიდერი
